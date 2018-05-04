@@ -1,3 +1,2 @@
-a=49
-var a=Math.sqrt(a);
+var a=Math.sqrt(9);
 console.log(a)
